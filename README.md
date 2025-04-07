@@ -1,1 +1,3 @@
 # tradingbot
+
+Commit from usarev
